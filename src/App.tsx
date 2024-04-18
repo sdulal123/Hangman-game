@@ -1,11 +1,10 @@
+import { PageHeader } from "./layout/pageHeader";
 
-function App() {
-
+export default function App() {
   return (
-    <>
-      <h1>SushiTube</h1>
-    </>
-  )
+    <div className="max-h-screen flex flex-col">
+      <PageHeader />
+      <div>2</div>
+    </div>
+  )  
 }
-
-export default App
