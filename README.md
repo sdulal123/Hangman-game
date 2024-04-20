@@ -1,3 +1,3 @@
-# SushiTube - Youtube Home page clone
+# Hangman game
 
-made with TypeScript, React and Tailwind CSS.
+made with React, TypeScript
