@@ -1,2 +1,3 @@
-# sushiTube
-Youtube clone
+# Hangman game
+
+made with React, TypeScript

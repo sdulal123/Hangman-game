@@ -14,10 +14,13 @@ export const categories = [
     "Impractical Jokes",
     "Hollywood movie trailor",
     "Blender 3D art challenges",
+<<<<<<< HEAD
 ]
 
 export const videos = [
     {
         
     }
+=======
+>>>>>>> 5304b75080f5c8b895631aaaa069dde18a6b4049
 ]
