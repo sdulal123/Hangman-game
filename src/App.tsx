@@ -1,5 +1,9 @@
 import { useState } from "react";
 import words from "./englishWords.json";
+import { Keyboard } from "./layout/keyboard";
+import { HangmanWord } from "./layout/hangmanWord";
+import { HangmanFigure } from "./layout/hangmanFigure";
+
 
 function App() {
   const [wordToGuess, setWordToGuess] = useState (() => {
@@ -7,9 +11,22 @@ function App() {
   })
   const [guessedLetters, setGuessedLetters] = useState<string[]>([])
 
-  console.log(wordToGuess)
+  
   return (
-  <h1>Hi</h1>
+  <div
+    style={{
+      maxWidth: "800px",
+      display: "flex",
+      flexDirection: "column",
+      gap:"2rem",
+      alignItems: "center"
+    }}  
+  >
+    <div style={{fontSize: "2rem", textAlign: "center"}}>Guess the Words!</div>
+    <HangmanFigure />
+    <HangmanWord />
+    <Keyboard />
+  </div>
 )
 }
 
