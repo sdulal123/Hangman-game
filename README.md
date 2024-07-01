@@ -52,7 +52,7 @@ Hangman game with english words.
 
 ## <a name="to-do"> To-do </a>
 
-- [ ] To Fix: Amp up the UI
-- [ ] To Fix: Replace with realistic keyboard
-- [ ] To Fix: Add more words, probably use API
-- [ ] To Fix: Replace Stickman with some cool 2d or 3d model
+- [ ] Amp up the UI
+- [ ] Replace with realistic keyboard
+- [ ] Add more words, probably use API
+- [ ] Replace Stickman with some cool 2d or 3d model
