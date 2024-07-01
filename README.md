@@ -13,7 +13,6 @@
 2. [Tech Stacks](#tech-stacks)
 3. [Quick Start](#quick-start)
 4. [Features](#features)
-5. [To-do](#to-do)
 
 ## <a name="introduction"> Introduction </a>
 
@@ -49,10 +48,11 @@ Hangman game with english words.
 
 **Features are missing**: Will update soon.
 
-
+<!--
+5. [To-do](#to-do)
 ## <a name="to-do"> To-do </a>
-
 - [ ] Amp up the UI
 - [ ] Replace with realistic keyboard
 - [ ] Add more words, probably use API
 - [ ] Replace Stickman with some cool 2d or 3d model
+-->
