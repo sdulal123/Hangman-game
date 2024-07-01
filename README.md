@@ -34,14 +34,14 @@ Hangman game with english words.
 
   ```bash
   # Clone the Repository
-    git clone https://github.com/sudulal123/hangman-game.git
-    cd hangman-game
+  git clone https://github.com/sudulal123/hangman-game.git
+  cd hangman-game
 
   # Install npm packages
-    npm install
+  npm install
 
   # start game on your localhost
-    npm run dev
+  npm run dev
   ```
 
 
