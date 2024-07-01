@@ -38,7 +38,7 @@ Hangman game with english words.
     cd hangman-game
 
   # Install npm packages
-   npm install
+    npm install
 
   # start game on your localhost
     npm run dev
